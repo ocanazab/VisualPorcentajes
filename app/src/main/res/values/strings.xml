@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">visual Porcentajes</string>
+    <string name="botonA">Botón A</string>
+    <string name="botonB">Botón B</string>
+    <string name="botonC">Botón C</string>
+    <string name="botonD">Botón D</string>
+    <string name="botonE">Botón E</string>
+    <string name="botonF">Botón F</string>
+</resources>

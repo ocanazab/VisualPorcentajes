@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visual Percents</string>
+    <string name="botonA">Button A</string>
+    <string name="botonB">Button B</string>
+    <string name="botonC">Button C</string>
+    <string name="botonD">Button D</string>
+    <string name="botonE">Button E</string>
+    <string name="botonF">Button F</string>
+</resources>
